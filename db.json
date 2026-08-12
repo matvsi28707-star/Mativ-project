@@ -1,0 +1,9 @@
+{
+    "name": "Иван",
+    "phone": "+7348237297",
+    "age": 25,
+    "isStudent": true,
+    "courses": [
+        "JS", "HTML"
+    ]
+}

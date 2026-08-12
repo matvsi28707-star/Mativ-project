@@ -658,6 +658,10 @@ a {
     text-align: right
 }
 
+.modal.modal__show{
+    display: block;
+}
+
 .modal {
     position: fixed;
     top: 0;
@@ -723,4 +727,11 @@ a {
     display: block;
     width: 280px;
     margin: 0 auto
+}
+
+.hide{
+    display: none;
+}
+.show{
+    display: block;
 }
